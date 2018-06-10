@@ -1,1 +1,1 @@
-# airlineSeating
+Welcome to the Airline Seating Program. In this program, users can specify their seating preferences based on what class their ticket is (Economy or First Class) and how many people are travelling together. 
